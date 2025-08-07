@@ -10,7 +10,4 @@ dependencies = [
 ]
 
 [dependency-groups]
-dev = [
-    "django-extensions>=4.1",
-    "django-werkzeug>=1.0.0",
-]
+dev = []
