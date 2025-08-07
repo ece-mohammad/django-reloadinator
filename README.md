@@ -1,8 +1,10 @@
 # Reloadinator
 
-Reloadinator is a simple sassy web application that judges you everytime you 
-reload the page. It's a fun example to show how cookies and sessions work in 
-web Django.
+![Reloadinator](./images/screenshot.png "Reloadinator")
+
+[Reloadinator](https://reloadinator.pythonanywhere.com/) is a sassy web
+application that judges you everytime you reload the page. It's a fun example
+to show how cookies and sessions work in Django.
 
 ## How to Play
 
